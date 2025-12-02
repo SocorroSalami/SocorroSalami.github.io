@@ -1,7 +1,7 @@
 
 # Socorro Salami's Portfolio
 
-I am an electrical engineer major at California State University of Fullerton and I plan on graduating in 2026.
+I am an electrical engineer major at California State University of Fullerton and I plan on graduating in 2028.
 
 # Favorite CPSC 120L Labs
 
